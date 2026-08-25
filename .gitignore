@@ -4,9 +4,12 @@ venv/
 contract_id.txt
 .budget-cache.toml
 req.json
+temp_auto_push.bat
 node_modules/
 /dist
 site/dist
 *.pdf
 current_report.json
 .soroban/
+.gitignore
+branch_structure.json
